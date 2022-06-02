@@ -1,0 +1,19 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Empezando con NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1":"node primerEjercicio.js",
+    "start": "node Index.js",
+    "saludar": "node holaMundo.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firstProject",
+    "HolaMundo",
+    "BingenWeb"
+  ],
+  "author": "BingenWeb",
+  "license": "ISC"
+}
